@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.exe
+C:\Users\memme\Desktop\P225\Task\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.deps.json
+C:\Users\memme\Desktop\P225\Task\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.dll
+C:\Users\memme\Desktop\P225\Task\CourseManagement\bin\Debug\netcoreapp3.1\CourseManagement.pdb
+C:\Users\memme\Desktop\P225\Task\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.dll
+C:\Users\memme\Desktop\P225\Task\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.pdb
+C:\Users\memme\Desktop\P225\Task\CourseManagement\obj\Debug\netcoreapp3.1\CourseManagement.genruntimeconfig.cache
